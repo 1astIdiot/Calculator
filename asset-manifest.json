@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.8aead27e.chunk.css",
+    "main.js": "/Calculator/static/js/main.70132190.chunk.js",
+    "main.js.map": "/Calculator/static/js/main.70132190.chunk.js.map",
+    "runtime-main.js": "/Calculator/static/js/runtime-main.48d81177.js",
+    "runtime-main.js.map": "/Calculator/static/js/runtime-main.48d81177.js.map",
+    "static/js/2.c9d5abbc.chunk.js": "/Calculator/static/js/2.c9d5abbc.chunk.js",
+    "static/js/2.c9d5abbc.chunk.js.map": "/Calculator/static/js/2.c9d5abbc.chunk.js.map",
+    "index.html": "/Calculator/index.html",
+    "precache-manifest.307a0ed385801bb1e7639c3a8cf52fa4.js": "/Calculator/precache-manifest.307a0ed385801bb1e7639c3a8cf52fa4.js",
+    "service-worker.js": "/Calculator/service-worker.js",
+    "static/css/main.8aead27e.chunk.css.map": "/Calculator/static/css/main.8aead27e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d81177.js",
+    "static/js/2.c9d5abbc.chunk.js",
+    "static/css/main.8aead27e.chunk.css",
+    "static/js/main.70132190.chunk.js"
+  ]
+}
